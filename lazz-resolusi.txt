@@ -2,3 +2,5 @@ Lazz Resolusi
 - Konsisten untuk belajar pemrograman selama setiap hari.
 - Membuat berbagai macam design.
 - Membuat CRUD daftar mahasiswa.
+- Ingin memperdalam Front-End.
+- Ingin memperdalam UI/UX Design. 
